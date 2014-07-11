@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Michaelsecord</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
+  <head>
+    <title>Michael Secord</title>
+    <%= stylesheet_link_tag    'application', media: 'all' %>
+    <%= javascript_include_tag 'application' %>
+    <%= csrf_meta_tags %>
+  </head>
+  <body>
 
-<%= yield %>
+  <div id="wrap">
+    <%= render 'layouts/nav' %>
+    <div class="container">
+      <%= render 'layouts/header' %>
+      <%= yield %>
+    </div>
+  </div>
 
-</body>
+  <div id="footer">
+    <div class="container center">
+      <p class="text-muted"><%= render 'layouts/footer' %></p>
+    </div>
+  </div>
+
+  </body>
 </html>
