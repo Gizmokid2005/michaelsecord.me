@@ -3,6 +3,7 @@ $navbar-default-bg:           #93C338;
 $navbar-default-link-color:   white;
 $jumbotron-bg:                #EFF2F3;
 
+@import "bootstrap-sprockets";
 @import "bootstrap";
 
 .center {
