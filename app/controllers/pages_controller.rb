@@ -7,7 +7,7 @@ class PagesController < ApplicationController
   end
 
   def resume_pdf
-    send_file("Secord_Resume_New.pdf", :type => "application/pdf")
+    send_file("public/Secord_Resume.pdf", :type => "application/pdf")
   end
 
 end
