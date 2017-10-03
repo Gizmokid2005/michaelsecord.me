@@ -10,4 +10,7 @@ class PagesController < ApplicationController
     send_file("public/Secord_Resume.pdf", :type => "application/pdf")
   end
 
+  def letsencrypt
+  end
+
 end
