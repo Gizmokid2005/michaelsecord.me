@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/gizmokid2005
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of https://michaelsecord.com
+* I am gizmokid2005 (https://keybase.io/gizmokid2005) on keybase.
+* I have a public key with fingerprint 7E26 EC9E EB4E EFB2 8FEE  8AF1 FF68 E251 F5D2 2982
+
+To do so, I am signing this object:
+
+{
+"body": {
+"key": {
+"eldest_kid": "01206e2069f9e9fbd573e841029653916edaa38df42493a85dafa74427b6f19e58550a",
+"fingerprint": "7e26ec9eeb4eefb28fee8af1ff68e251f5d22982",
+"host": "keybase.io",
+"key_id": "ff68e251f5d22982",
+"kid": "01012b801ceec1993fbf4737843eadb92f8fcfc6fa6e742180314cc0057799d2924d0a",
+"uid": "f475d9ef564670b5caf9d9968e30f519",
+"username": "gizmokid2005"
+},
+"service": {
+"hostname": "michaelsecord.com",
+"protocol": "https:"
+},
+"type": "web_service_binding",
+"version": 1
+},
+"ctime": 1507053314,
+"expire_in": 157680000,
+"prev": "e158042e343d61ac78eec600fbb1f6d5bf48e9527199fc101fb9326645f8abd2",
+"seqno": 34,
+"tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMN2AnicbVJ9TJVVHL6gIsJokiOaVNorjCA+3u/3PReHSdQyxSLky6Dr+3HO5QXu
+feG+l+8QhaGYApuppXwkMEdjFfKVsPUh0MCsFSBStEZTMBdGF02wOVedS/pfZzs7
+O+f3PM/vOc9+X/mtMvl4/JN1PXFpIqzS45vBlgJT+pXvPcsIWVdLCHMZkQNXDpir
+QsNpydFUwkyQFE3yEG+AAARIVjmBgSJLkTTgOQZQPFQliRFVxNIsYCSRUyUkCSxL
+CzKPKAA5keNIiYggkGa3QkeeQ7M7sawAaR4qAEKZhRDJtIggFCVEIcSLkOYoxKk0
+DUQaE7N0w83A5mTJgFGajt/wxbJi73/wj3xj57JIUgqECgUAg2TECowgsgyUVBnQ
+SEQKUngk8VBgaUokGYpVFJLkBAEAlQY0q674LvivDytwKoCI41leIGVOkRBQAcDN
+GRJxFHADDeiwSzaI0Vat1KZjHzSWI8ojCFwp1BToDtf9m4com6ZkSTDXgIruUKMU
+3YZF8hy6U1f0XFzOcjrzDLOb7izJc+OLoGx5qGSRNbuKA8WMQugwNN1OmCmMVJya
+W5riSIHkGPyjCAIW52kOaNHcCE7gRRIvdx9YiCUhxYkkS0OGZVSekhRBxGnxJIlk
+mUK8yuHMRAg4WsAJIgVHimTA0DzPckiUZNUdtwHz7TphZnArp2TFmoZmtUvOAgck
+yocGM1abPHxMXms83ZNm8lm3/tH8te5ebzo0cimuaubnXYS2nDpx5WDVcGZk/2ut
+SyGX9yQ9iDx3xBb+XNS22dcXRkPuqRd+Ty1O37j4gxHvICbvakkDbyQ/4Wpo+yI+
+8FRd39bo87XVv0Q+A1u6qMC9W/TLZNytnjn/7Ul9QeA0s/F2yqU0/dBi6PyB+M73
+a+NCt87VHfnwo64N4fPBeWPZrj8Z13FXX+PTlcKX/eMdq7enhDTNBocZDRGdV/sn
+zyTWNVYvbYt6XhqnFtnw+zGv3gto7I6ydH62fKf579F98eUv/RRwInQm4dOm7KCB
+2Kyx3aVF/tP70vJv+j5oSzWmXuic9d5xe3O65T3Pst5P/I8OnT9qg41jCZPvxu6f
+Sl1/tuVjz2cHRkorvGJGXg4u7vrjKd8FUDUX8hhHAL7urY7JwKRT5cP9NeNCtFdY
+d9Nf+mjHscy1fpW9yai352K03LEpY+fQt8ktG6av/TqWsMN19qaVePL+UnmZz0Iw
+EXZyutvRbBvyNec7Cu8YphsgO+5ge+bnm/ccNk/tJ9qqh63JU/S69uYAerDJPFJ8
+xtV7tzbF05oWueu7d6b2kq1vNlb0BLnm53fWF6+qe3zxx8SrbV/LLuuatYsnjJhj
+rxyvyo3l071NiYcPdJxOyQktCHiRmr52IaPee7Gi5rflyS6/LSju+smaiZlzm3wn
+Yupbht4uulFb0mB3URUfXBxtv/UvKEbGiw==
+=RwsF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gizmokid2005
+
+==================================================================
+
