@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.5.1'
+ruby '2.6.1'
 
 gem 'rails'
 gem 'sass-rails'
@@ -15,5 +15,5 @@ group :production do
 end
 
 group :development, :test do
-  gem 'sqlite3'
+  gem 'sqlite3', '~> 1.3.6'
 end
