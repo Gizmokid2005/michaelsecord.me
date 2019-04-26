@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
-ruby '2.6.1'
+ruby '2.6.3'
 
 gem 'rails'
-gem 'sass-rails'
+gem 'sassc-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'bootstrap-sass'
@@ -11,7 +11,7 @@ gem 'jbuilder'
 
 group :production do
   gem 'rails_12factor'
-  gem 'pg'
+  # gem 'pg'
 end
 
 group :development, :test do
