@@ -10,6 +10,7 @@ gem 'jbuilder'
 
 group :production do
   gem 'rails_12factor'
+  gem 'sqlite3'
   # gem 'pg'
 end
 
